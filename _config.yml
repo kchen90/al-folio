@@ -1,7 +1,7 @@
 title: "Chen Lab"
 description: "Genome editing and molecular delivery at Penn Chemistry"
-url: "https://kchen90.github.io/al-folio"
-baseurl: ""
+url: "https://kchen90.github.io"
+baseurl: "/al-folio"
 
 author:
   name: "Kai Chen"
